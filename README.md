@@ -18,8 +18,11 @@ PreetDalal_techai_task_1.py, single file for both logic and playing.
 ## Usage
 
 Note that this program will not function properly on Command Prompt and Windows Powershell due to lack of ANSI support.
+
 Please download the valid-wordle-words.txt file.
+
 Shortcut to open terminal -> [Ctrl + `]
+
 To run the Wordle game, execute the following command in the VSCode integrated terminal:
 
 ```
