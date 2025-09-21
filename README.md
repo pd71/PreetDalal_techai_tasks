@@ -1,2 +1,2 @@
-# Wordle
-This is a Worlde clone written in Python. This can be played on the command line and does not use any libraries except random.
+# Task 1: wordle Clone
+Please note that this program should be run on the VSCode integrated terminal due to lack of ANSI support on Command Prompt and Windows Powershell
