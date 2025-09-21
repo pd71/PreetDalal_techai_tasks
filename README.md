@@ -11,7 +11,7 @@ PreetDalal_techai_task_1.py, single file for both logic and playing.
 1. Clone the repository:
    ```
    git clone https://github.com/pd71/PreetDalal_techai_tasks
-   cd Wordle
+   cd PreetDalal_techai_task_1
    ```
 
 2. No dependencies required to be installed.
