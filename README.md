@@ -1,6 +1,12 @@
 # Task 1: Wordle Clone
 
-This project implements the logic for a Wordle game in Python. The game allows users to guess a five-letter word within 6 attempts, providing feedback on the correctness of their guesses.
+This project implements a Wordle game in Python. Users have 6 attempts to guess a five-letter word, with color-coded feedback indicating correctness:
+
+Green → Correct letter in the correct position
+
+Yellow → Correct letter in the wrong position
+
+Gray → Letter not in the word
 
 ## Project Structure
 
