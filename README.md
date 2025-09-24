@@ -18,8 +18,8 @@ PreetDalal_techai_task_1.py, single file for both logic and playing.
    ```
    git clone https://github.com/pd71/PreetDalal_techai_tasks
    ```
-
-2. No dependencies required to be installed.
+2. Download the valid-wordle-words.txt file
+3. No dependencies required to be installed.
 
 ## Usage
 
